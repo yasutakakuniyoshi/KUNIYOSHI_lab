@@ -1,0 +1,31 @@
+# 國吉保孝, MD, PhD
+
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+## 専門
+* 小児科学/小児保健/感染症/アレルギー学/小児救急医学
+## 資格
+* 医師免許
+* 日本小児科学会 専門医・指導医
+* 日本感染症学会 専門医・指導医
+* 日本プライマリ・ケア学会 認定医
+* AHA PALS instructor
+## 研究テーマ
+* 臨床小児医学
+* 小児保健学 
+## 学歴
+* 2001年 弘前大学医学部 卒業
+* 2019年 東北大学大学院医学系研究科 卒業
+## 経歴
+* 2001.4 – 2023.6 : 津軽保健生活協同組合組合健生病院
+* 2023.7 –        : 国際医療福祉大学
+## 主な業績
+*[原著]
+*[症例報告]
+
+## Project layout
+
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
