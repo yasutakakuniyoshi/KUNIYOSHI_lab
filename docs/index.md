@@ -18,14 +18,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * 2019年 東北大学大学院医学系研究科 卒業
 ## 経歴
 * 2001.4 – 2023.6 : 津軽保健生活協同組合組合健生病院
-* 2023.7 –        : 国際医療福祉大学
+* 2023.7 –        : 
 ## 主な業績
-*[原著]
-*[症例報告]
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* 原著
+* 症例報告
