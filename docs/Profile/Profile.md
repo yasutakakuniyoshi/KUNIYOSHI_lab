@@ -1,9 +1,4 @@
-# 國吉保孝, MD, PhD
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## 専門
-* 小児科学/小児保健/臨床感染症学/アレルギー学/小児救急医学
+# Profile
 ## 資格
 * 医師免許
 * 日本小児科学会 専門医・指導医
@@ -20,6 +15,3 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 ## 経歴
 * 2001.4 – 2023.6 : 津軽保健生活協同組合組合健生病院
 * 2023.7 –        : 
-## 主な業績
-* 原著
-* 症例報告
